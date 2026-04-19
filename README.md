@@ -69,4 +69,4 @@ This project demonstrates how sales data can be transformed into meaningful insi
 ---
 
 ## 👨‍💻 Author
-Your Name
+Harsha S Mantrodi
